@@ -22,7 +22,8 @@ button {
 }
 
 button:active {
-  background-color: #61dafb;
+  background-color: #012e3a;
+  color: wheat;
 }
 
 input[type=text] {
